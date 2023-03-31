@@ -1,6 +1,6 @@
 # pinescript_stuff
 
-Three simple moving averages uses you need to know that will improve your trading
+Three simple moving average uses you need to know that will improve your trading
 -------------
 Pinescript strategy:
   - silly_supertrend_strategy
